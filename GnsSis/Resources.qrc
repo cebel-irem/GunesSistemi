@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>simple.vert</file>
+        <file>simple.frag</file>
+        <file>img/8k_sun.jpg</file>
+        <file>img/earth2048.bmp</file>
+        <file>img/moon1024.bmp</file>
+        <file>img/2k_mercury.jpg</file>
+        <file>img/2k_jupiter.jpg</file>
+        <file>img/2k_venus_surface.jpg</file>
+        <file>img/2k_mars.jpg</file>
+        <file>img/saturn.jpg</file>
+        <file>img/2k_uranus.jpg</file>
+        <file>img/2k_neptune.jpg</file>
+        <file>img/pluto.jpg</file>
+        <file>img/Titan.jpg</file>
+        <file>img/Titania.jpg</file>
+        <file>img/triton.jpg</file>
+        <file>img/Callisto.jpg</file>
+        <file>img/Charon.jpg</file>
+        <file>img/deimos.jpg</file>
+        <file>img/Enceladus.jpg</file>
+        <file>img/phobos.jpg</file>
+        <file>img/Europa.jpg</file>
+        <file>img/Ganymede.jpg</file>
+        <file>img/lo.jpg</file>
+        <file>img/Miranda.jpg</file>
+    </qresource>
+</RCC>
